@@ -1,18 +1,6 @@
 ---
 
-## Admin and User Journey Project
 
-This project consists of two parts: **Admin Journey** and **User Journey**.
-
-- **Admin Journey** is built using **React.js**.
-- **User Journey** is built using **Next.js**.
-
-## Table of Contents
-
-1. [Project Setup](#project-setup)
-2. [Running the Projects](#running-the-projects)
-3. [Folder Structure](#folder-structure)
-4. [Description](#description)
 
 ---
 
