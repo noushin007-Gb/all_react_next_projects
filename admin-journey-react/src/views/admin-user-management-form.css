@@ -1,0 +1,1624 @@
+.admin-user-management-form-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.admin-user-management-form-admin-user-management-form {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-user-management-form-frame201 {
+  top: 0px;
+  left: 0px;
+  width: 222px;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-user-management-form-group {
+  top: 119.11482238769531px;
+  left: 90.36293029785156px;
+  width: 41.93360137939453px;
+  height: 7.612102508544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-user-management-form-svgjs-g2244 {
+  top: 0px;
+  left: 0px;
+  width: 41.93360137939453px;
+  height: 7.612102508544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-user-management-form-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 42px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-dashboard {
+  top: 158px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-user-management-form-text10 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-element22 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-catalog {
+  top: 226px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-user-management-form-text11 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-vector2 {
+  top: 12px;
+  left: 41px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-books {
+  top: 294px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-user-management-form-text12 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-book11 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-log-out {
+  top: 931px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-user-management-form-text13 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-logout3 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-users-clicked-btn {
+  top: 362px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-user-management-form-text14 {
+  top: 12px;
+  left: 85px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-people3 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-text15 {
+  top: 89px;
+  left: 48px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text16 {
+  top: 110px;
+  left: 80px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-downloadremovebgpreview6 {
+  top: -19px;
+  left: -16px;
+  width: 165px;
+  height: 165px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame208 {
+  top: 0px;
+  left: 222px;
+  width: 1698px;
+  height: 71px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-user-management-form-text17 {
+  top: 15px;
+  left: 1552px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text18 {
+  top: 39px;
+  left: 1540px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-setting21 {
+  top: 17px;
+  left: 1647px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-user1 {
+  top: 19px;
+  left: 20px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-text19 {
+  top: 16px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text20 {
+  top: 38px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-line16 {
+  top: 65px;
+  left: 1635px;
+  width: 58px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame210 {
+  top: 170px;
+  left: 245px;
+  width: 1658px;
+  height: 889px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background-color: rgba(190, 220, 231, 1);
+}
+ 
+.admin-user-management-form-line20 {
+  top: 82px;
+  left: 25px;
+  width: 1608px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-text21 {
+  top: 43px;
+  left: 88px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text22 {
+  top: 43px;
+  left: 355px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text23 {
+  top: 43px;
+  left: 1156px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text24 {
+  top: 43px;
+  left: 764px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text25 {
+  top: 43px;
+  left: 1508px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-frame156 {
+  top: 82px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text26 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text27 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text28 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit10 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview10 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete10 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame157 {
+  top: 150px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text29 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text30 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text31 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit11 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview11 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete11 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame158 {
+  top: 218px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text32 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text33 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text34 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit12 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview12 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete12 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame159 {
+  top: 286px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text35 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text36 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text37 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit13 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview13 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete13 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame160 {
+  top: 354px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text38 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text39 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text40 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit14 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview14 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete14 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame161 {
+  top: 422px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text41 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text42 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text43 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit15 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview15 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete15 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame162 {
+  top: 490px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text44 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text45 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text46 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit16 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview16 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete16 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame163 {
+  top: 558px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text47 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text48 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text49 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit17 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview17 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete17 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame164 {
+  top: 626px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text50 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text51 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text52 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit18 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview18 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete18 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame165 {
+  top: 694px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text53 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text54 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text55 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit19 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview19 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete19 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame166 {
+  top: 762px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text56 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text57 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text58 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit20 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview20 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete20 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame167 {
+  top: 830px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-text59 {
+  top: 25px;
+  left: 248px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text60 {
+  top: 25px;
+  left: 1099px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text61 {
+  top: 25px;
+  left: 633px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btnedit21 {
+  top: 23px;
+  left: 1434px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btnview21 {
+  top: 23px;
+  left: 1499px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-btn-delete21 {
+  top: 23px;
+  left: 1467px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-frame211 {
+  gap: 16px;
+  top: 98px;
+  left: 1603px;
+  width: 300px;
+  display: flex;
+  padding: 12px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(231, 231, 231, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-user-management-form-vuesaxtwotonesearchnormal1 {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-user-management-form-vuesaxtwotonesearchnormal2 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-user-management-form-searchnormal {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-user-management-form-vector3 {
+  top: 1.6666666269302368px;
+  left: 1.6666666269302368px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.admin-user-management-form-vector4 {
+  top: 16.66666603088379px;
+  left: 16.66666603088379px;
+  width: 2px;
+  height: 2px;
+  opacity: 0.40;
+  position: absolute;
+}
+ 
+.admin-user-management-form-text62 {
+  color: rgba(114, 115, 116, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-text63 {
+  top: 103px;
+  left: 252px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-user-management-form-btn-add-user {
+  gap: 10px;
+  top: 99px;
+  left: 1453px;
+  width: 128px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  border-radius: 12px;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-user-management-form-addcircle1 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.admin-user-management-form-text64 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}

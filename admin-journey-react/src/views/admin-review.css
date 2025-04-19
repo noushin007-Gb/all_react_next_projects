@@ -1,0 +1,670 @@
+.admin-review-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.admin-review-admin-review {
+  width: 100%;
+  height: 1019px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-review-admin-review-po-pup {
+  top: 0px;
+  left: 0px;
+  width: 1378px;
+  height: 1019px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-review-admin-most-readable-books {
+  top: 0px;
+  left: 0px;
+  width: 1378px;
+  height: 1019px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(213, 232, 255, 0.5496851205825806);
+}
+ 
+.admin-review-readers-reviews {
+  top: 147px;
+  left: 37px;
+  width: 1287px;
+  height: 1278.75634765625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-review-group3 {
+  top: 0px;
+  left: 0px;
+  width: 1287px;
+  height: 251px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-review-component191 {
+  top: 82.73248291015625px;
+  left: 0px;
+  width: 102.22223663330078px;
+  height: 11.990216255187988px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-review-grade10 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-grade11 {
+  top: 0px;
+  left: 22.222225189208984px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-grade12 {
+  top: 0px;
+  left: 44.44445037841797px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-grade13 {
+  top: 0px;
+  left: 66.66667938232422px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-grade14 {
+  top: 0px;
+  left: 88.88890075683594px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-ellipse221 {
+  top: 0px;
+  left: 4px;
+  width: 83px;
+  height: 75px;
+  position: absolute;
+}
+ 
+.admin-review-text10 {
+  top: 11.690436363220215px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text11 {
+  top: 33.272850036621094px;
+  left: 102px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text12 {
+  top: 48.56037521362305px;
+  left: 102px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text13 {
+  top: 16.186809539794922px;
+  left: 276px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text14 {
+  top: 57.553035736083984px;
+  left: 276px;
+  color: rgba(0, 0, 0, 1);
+  width: 1011px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text25 {
+  top: 222.11868286132812px;
+  left: 276px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-frame431 {
+  gap: 10px;
+  top: 216.72311401367188px;
+  left: 354px;
+  display: flex;
+  padding: 5px 10px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.admin-review-thumbsup1 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.admin-review-text26 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-frame441 {
+  gap: 10px;
+  top: 217px;
+  left: 508px;
+  display: flex;
+  padding: 5px 10px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.admin-review-messagecircle1 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.admin-review-text27 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-group4 {
+  top: 219px;
+  left: 0px;
+  width: 1287px;
+  height: 356px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-review-ellipse222 {
+  top: 102.0379638671875px;
+  left: 4px;
+  width: 83px;
+  height: 75px;
+  position: absolute;
+}
+ 
+.admin-review-text28 {
+  top: 113.72845458984375px;
+  left: 102px;
+  color: rgba(0, 0, 0, 1);
+  width: 89px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text29 {
+  top: 135.31082153320312px;
+  left: 102px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 77px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text30 {
+  top: 150.59835815429688px;
+  left: 102px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 71px;
+  height: auto;
+  position: absolute;
+  font-size: 11px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text31 {
+  top: 118.22477722167969px;
+  left: 276px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 128px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text32 {
+  top: 159.5910186767578px;
+  left: 276px;
+  color: rgba(0, 0, 0, 1);
+  width: 1011px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-text43 {
+  top: 324.15667724609375px;
+  left: 276px;
+  color: rgba(0, 0, 0, 0.699999988079071);
+  width: 64px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-frame432 {
+  gap: 10px;
+  top: 318.7611083984375px;
+  left: 354px;
+  display: flex;
+  padding: 5px 10px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.admin-review-thumbsup2 {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-review-frame442 {
+  gap: 10px;
+  top: 312px;
+  left: 354px;
+  display: flex;
+  padding: 5px 10px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.admin-review-frame451 {
+  gap: 10px;
+  display: flex;
+  padding: 5px 10px;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.admin-review-thumbsup3 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.admin-review-text44 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-component192 {
+  top: 184.77047729492188px;
+  left: 0px;
+  width: 102.22223663330078px;
+  height: 11.990216255187988px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-review-grade15 {
+  top: 0px;
+  left: 0px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-grade16 {
+  top: 0px;
+  left: 22.222225189208984px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-grade17 {
+  top: 0px;
+  left: 44.44445037841797px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-grade18 {
+  top: 0px;
+  left: 66.66667938232422px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-grade19 {
+  top: 0px;
+  left: 88.88890075683594px;
+  width: 13px;
+  height: 12px;
+  position: absolute;
+}
+ 
+.admin-review-frame47 {
+  gap: 10px;
+  top: 0px;
+  left: 751px;
+  display: flex;
+  padding: 5px 38px;
+  position: absolute;
+  align-items: center;
+  border-radius: 35px;
+  justify-content: center;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-review-text45 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-frame49 {
+  gap: 10px;
+  top: 315px;
+  left: 755px;
+  display: flex;
+  padding: 5px 38px;
+  position: absolute;
+  align-items: center;
+  border-radius: 35px;
+  justify-content: center;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-review-text46 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-frame48 {
+  gap: 10px;
+  top: 0px;
+  left: 875px;
+  display: flex;
+  padding: 5px 38px;
+  position: absolute;
+  align-items: center;
+  border-radius: 35px;
+  justify-content: center;
+  background-color: rgba(243, 63, 63, 1);
+}
+ 
+.admin-review-text47 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-frame50 {
+  gap: 10px;
+  top: 315px;
+  left: 877px;
+  display: flex;
+  padding: 5px 38px;
+  position: absolute;
+  align-items: center;
+  border-radius: 35px;
+  justify-content: center;
+  background-color: rgba(243, 63, 63, 1);
+}
+ 
+.admin-review-text48 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 14px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-chevronright {
+  top: 1259.8717041015625px;
+  left: 720px;
+  width: 21px;
+  height: 19px;
+  position: absolute;
+}
+ 
+.admin-review-frame452 {
+  gap: 10px;
+  top: 681px;
+  left: 545px;
+  width: 175px;
+  display: flex;
+  padding: 5px 10px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+ 
+.admin-review-messagecircle2 {
+  width: 20px;
+  height: 20px;
+}
+ 
+.admin-review-text49 {
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-review-vector1 {
+  top: 365px;
+  left: 720px;
+  width: 35px;
+  height: 31px;
+  position: absolute;
+}
+ 
+.admin-review-vector2 {
+  top: 682px;
+  left: 720px;
+  width: 35px;
+  height: 31px;
+  position: absolute;
+}

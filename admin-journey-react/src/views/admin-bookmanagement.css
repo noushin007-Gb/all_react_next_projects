@@ -1,0 +1,1742 @@
+.admin-bookmanagement-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.admin-bookmanagement-admin-bookmanagement {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-admin-book-management {
+  top: 0px;
+  left: 0px;
+  width: 1920px;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-bookmanagement-frame201 {
+  top: 0px;
+  left: 0px;
+  width: 222px;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-bookmanagement-group {
+  top: 36.000003814697266px;
+  left: 86.70417022705078px;
+  width: 49.87917709350586px;
+  height: 90.72692108154297px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-bookmanagement-svgjs-g2242 {
+  top: 0px;
+  left: 0px;
+  width: 49.87917709350586px;
+  height: 42.5362663269043px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-bookmanagement-svgjs-g2244 {
+  top: 83.11481475830078px;
+  left: 3.6587600708007812px;
+  width: 41.93360137939453px;
+  height: 7.612102508544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-bookmanagement-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 42px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-dashboard {
+  top: 158px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-bookmanagement-text10 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-element22 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-catalog {
+  top: 226px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-bookmanagement-text11 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-vector2 {
+  top: 12px;
+  left: 41px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-users {
+  top: 362px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-bookmanagement-text12 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-people3 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-log-out {
+  top: 931px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-bookmanagement-text13 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-logout3 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-books-clicked-btn {
+  top: 294px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-bookmanagement-text14 {
+  top: 12px;
+  left: 85px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-book11 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-text15 {
+  top: 89px;
+  left: 47px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text16 {
+  top: 116px;
+  left: 80px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-downloadremovebgpreview6 {
+  top: -19px;
+  left: -16px;
+  width: 165px;
+  height: 165px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame208 {
+  top: 0px;
+  left: 222px;
+  width: 1698px;
+  height: 71px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-bookmanagement-text17 {
+  top: 15px;
+  left: 1552px;
+  color: rgba(255, 241, 241, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text18 {
+  top: 39px;
+  left: 1540px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-setting21 {
+  top: 17px;
+  left: 1647px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-user1 {
+  top: 19px;
+  left: 20px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-text19 {
+  top: 16px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text20 {
+  top: 38px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-line16 {
+  top: 65px;
+  left: 1635px;
+  width: 58px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame2101 {
+  top: 170px;
+  left: 245px;
+  width: 1662px;
+  height: 889px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background-color: rgba(190, 220, 231, 1);
+}
+ 
+.admin-bookmanagement-line20 {
+  top: 82px;
+  left: 25px;
+  width: 1608px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-text21 {
+  top: 43px;
+  left: 79px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text22 {
+  top: 49px;
+  left: 472px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text23 {
+  top: 43px;
+  left: 895px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text24 {
+  top: 43px;
+  left: 1207px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text25 {
+  top: 43px;
+  left: 1515px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-frame156 {
+  top: 82px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text26 {
+  top: 25px;
+  left: 349px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text27 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text28 {
+  top: 24px;
+  left: 1159px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit10 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview10 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete10 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame157 {
+  top: 150px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text29 {
+  top: 14px;
+  left: 347px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text30 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text31 {
+  top: 25px;
+  left: 1159px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit11 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview11 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete11 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame158 {
+  top: 218px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text32 {
+  top: 18px;
+  left: 349px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text33 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text34 {
+  top: 24px;
+  left: 1160px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit12 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview12 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete12 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame159 {
+  top: 286px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text35 {
+  top: 12px;
+  left: 345px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text36 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text37 {
+  top: 25px;
+  left: 1162px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit13 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview13 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete13 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame160 {
+  top: 354px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text38 {
+  top: 9px;
+  left: 340px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text39 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text40 {
+  top: 22px;
+  left: 1163px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit14 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview14 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete14 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame161 {
+  top: 422px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text41 {
+  top: 25px;
+  left: 338px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text42 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text43 {
+  top: 24px;
+  left: 1164px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit15 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview15 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete15 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame162 {
+  top: 490px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text44 {
+  top: 23px;
+  left: 336px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text45 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text46 {
+  top: 22px;
+  left: 1163px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit16 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview16 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete16 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame163 {
+  top: 558px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text47 {
+  top: 23px;
+  left: 338px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text48 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text49 {
+  top: 25px;
+  left: 1160px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit17 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview17 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete17 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame164 {
+  top: 626px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text50 {
+  top: 20px;
+  left: 333px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text51 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text52 {
+  top: 24px;
+  left: 1160px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit18 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview18 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete18 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame165 {
+  top: 694px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text53 {
+  top: 25px;
+  left: 333px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text54 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text55 {
+  top: 22px;
+  left: 1162px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit19 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview19 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete19 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame166 {
+  top: 762px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text56 {
+  top: 22px;
+  left: 330px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text57 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text58 {
+  top: 22px;
+  left: 1162px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit20 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview20 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete20 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame167 {
+  top: 830px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-text59 {
+  top: 16px;
+  left: 331px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text60 {
+  top: 25px;
+  left: 852px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text61 {
+  top: 24px;
+  left: 1160px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btnedit21 {
+  top: 23px;
+  left: 1442px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btnview21 {
+  top: 23px;
+  left: 1507px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-btn-delete21 {
+  top: 23px;
+  left: 1475px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame2102 {
+  gap: 16px;
+  top: 98px;
+  left: 1603px;
+  width: 300px;
+  display: flex;
+  padding: 12px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(231, 231, 231, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-bookmanagement-vuesaxtwotonesearchnormal1 {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-bookmanagement-vuesaxtwotonesearchnormal2 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-bookmanagement-searchnormal1 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-bookmanagement-vector3 {
+  top: 1.6666666269302368px;
+  left: 1.6666666269302368px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-vector4 {
+  top: 16.66666603088379px;
+  left: 16.66666603088379px;
+  width: 2px;
+  height: 2px;
+  opacity: 0.40;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-text62 {
+  color: rgba(114, 115, 116, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text63 {
+  top: 103px;
+  left: 252px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-text64 {
+  top: 103px;
+  left: 252px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-btn-add-book {
+  gap: 10px;
+  top: 99px;
+  left: 1453px;
+  width: 136px;
+  display: flex;
+  padding: 10px;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-bookmanagement-addcircle1 {
+  width: 24px;
+  height: 24px;
+}
+ 
+.admin-bookmanagement-text65 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-frame211 {
+  top: 101px;
+  left: 1182px;
+  width: 244px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 0 12px 12px 0;
+  background-color: rgba(226, 226, 226, 1);
+}
+ 
+.admin-bookmanagement-text66 {
+  top: 8px;
+  left: 41px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-bookmanagement-vuesaxtwotonesearchnormal3 {
+  top: 9px;
+  left: 199px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-bookmanagement-searchnormal2 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.admin-bookmanagement-frame212 {
+  top: 103px;
+  left: 520px;
+  width: 244px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 0 12px 12px 0;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-bookmanagement-text67 {
+  top: 8px;
+  left: 39px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}

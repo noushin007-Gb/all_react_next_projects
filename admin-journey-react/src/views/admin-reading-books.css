@@ -1,0 +1,1758 @@
+.admin-reading-books-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.admin-reading-books-admin-reading-books {
+  width: 100%;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-reading-books-frame201 {
+  top: 0px;
+  left: 0px;
+  width: 222px;
+  height: 1080px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-reading-books-group {
+  top: 36.17880630493164px;
+  left: 90.36293029785156px;
+  width: 41.93360137939453px;
+  height: 90.54811096191406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-reading-books-svgjs-g2242 {
+  top: 0px;
+  left: 6.024516582489014px;
+  width: 29.31327247619629px;
+  height: 42.35746383666992px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-reading-books-svgjs-g2244 {
+  top: 82.9360122680664px;
+  left: 0px;
+  width: 41.93360137939453px;
+  height: 7.612102508544922px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-reading-books-vector1 {
+  top: 0px;
+  left: 0px;
+  width: 42px;
+  height: 8px;
+  position: absolute;
+}
+ 
+.admin-reading-books-btn-dashboard {
+  top: 158px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-reading-books-text10 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-element22 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-btn-books {
+  top: 294px;
+  left: 4px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-reading-books-text11 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-book11 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-btn-users {
+  top: 362px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-reading-books-text12 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-people3 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-btn-log-out {
+  top: 931px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-reading-books-text13 {
+  top: 12px;
+  left: 85px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text14 {
+  color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-reading-books-text15 {
+  color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-reading-books-logout3 {
+  top: 12px;
+  left: 41px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-catalog-clicked-btn {
+  top: 226px;
+  left: 0px;
+  width: 222px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-reading-books-text17 {
+  top: 12px;
+  left: 85px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-vector2 {
+  top: 12px;
+  left: 41px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.admin-reading-books-downloadremovebgpreview4 {
+  top: -23px;
+  left: -12px;
+  width: 179px;
+  height: 179px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+}
+ 
+.admin-reading-books-text18 {
+  top: 91px;
+  left: 49px;
+  color: rgba(0, 160, 220, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text19 {
+  top: 114px;
+  left: 88px;
+  color: rgba(0, 160, 220, 1);
+  width: 61px;
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-frame208 {
+  top: -5px;
+  left: 222px;
+  width: 1698px;
+  height: 71px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(1, 161, 219, 1);
+}
+ 
+.admin-reading-books-text20 {
+  top: 15px;
+  left: 1552px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text21 {
+  top: 39px;
+  left: 1540px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-setting21 {
+  top: 17px;
+  left: 1647px;
+  width: 38px;
+  height: 38px;
+  position: absolute;
+}
+ 
+.admin-reading-books-user1 {
+  top: 19px;
+  left: 20px;
+  width: 34px;
+  height: 34px;
+  position: absolute;
+}
+ 
+.admin-reading-books-text22 {
+  top: 16px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text23 {
+  top: 38px;
+  left: 61px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 12px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-line16 {
+  top: 68px;
+  left: 1634px;
+  width: 58px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame210 {
+  top: 102px;
+  left: 1337px;
+  width: 244px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 0 12px 12px 0;
+  background-color: rgba(226, 226, 226, 1);
+}
+ 
+.admin-reading-books-text24 {
+  top: 8px;
+  left: 41px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-vuesaxtwotonesearchnormal1 {
+  top: 9px;
+  left: 199px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-reading-books-searchnormal1 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame1591 {
+  top: 194px;
+  left: 264px;
+  width: 1624px;
+  height: 889px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 12px;
+  background-color: rgba(190, 220, 231, 1);
+}
+ 
+.admin-reading-books-line20 {
+  top: 82px;
+  left: 25px;
+  width: 1608px;
+  height: 1px;
+  position: absolute;
+}
+ 
+.admin-reading-books-text25 {
+  top: 43px;
+  left: 54px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text26 {
+  top: 43px;
+  left: 278px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text27 {
+  top: 43px;
+  left: 840px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text28 {
+  top: 43px;
+  left: 532px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text29 {
+  top: 43px;
+  left: 1185px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text30 {
+  top: 43px;
+  left: 1516px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-frame156 {
+  top: 82px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text31 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text32 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text33 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text34 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview10 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame157 {
+  top: 150px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text35 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text36 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text37 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text38 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview11 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame158 {
+  top: 218px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text39 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text40 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text41 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text42 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview12 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame1592 {
+  top: 286px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text43 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text44 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text45 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text46 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview13 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame160 {
+  top: 354px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text47 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text48 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text49 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text50 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview14 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame161 {
+  top: 422px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text51 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text52 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text53 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text54 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview15 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame162 {
+  top: 490px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text55 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text56 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text57 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text58 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview16 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame163 {
+  top: 558px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text59 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text60 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text61 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text62 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview17 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame164 {
+  top: 626px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text63 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text64 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text65 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text66 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview18 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame165 {
+  top: 694px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text67 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text68 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text69 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text70 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview19 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame166 {
+  top: 762px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text71 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text72 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text73 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text74 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview20 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame167 {
+  top: 830px;
+  left: 56px;
+  width: 1577px;
+  height: 68px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-text75 {
+  top: 25px;
+  left: 17px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text76 {
+  top: 25px;
+  left: 775px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text77 {
+  top: 25px;
+  left: 468px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-text78 {
+  top: 25px;
+  left: 1098px;
+  color: rgba(21, 22, 25, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 500;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-btnview21 {
+  top: 23px;
+  left: 1474px;
+  width: 24px;
+  height: 24px;
+  position: absolute;
+}
+ 
+.admin-reading-books-frame1593 {
+  gap: 16px;
+  top: 98px;
+  left: 1603px;
+  width: 300px;
+  display: flex;
+  padding: 12px 16px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-color: rgba(231, 231, 231, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px;
+  background-color: rgba(255, 255, 255, 1);
+}
+ 
+.admin-reading-books-vuesaxtwotonesearchnormal2 {
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+ 
+.admin-reading-books-vuesaxtwotonesearchnormal3 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-reading-books-searchnormal2 {
+  top: 0px;
+  left: 0px;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+ 
+.admin-reading-books-vector3 {
+  top: 1.6666666269302368px;
+  left: 1.6666666269302368px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+ 
+.admin-reading-books-vector4 {
+  top: 16.66666603088379px;
+  left: 16.66666603088379px;
+  width: 2px;
+  height: 2px;
+  opacity: 0.40;
+  position: absolute;
+}
+ 
+.admin-reading-books-text79 {
+  color: rgba(114, 115, 116, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-frame1594 {
+  top: 102px;
+  left: 245px;
+  width: 244px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  box-sizing: content-box;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(0, 160, 220, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 12px 0 0 12px;
+  background-color: rgba(0, 160, 220, 1);
+}
+ 
+.admin-reading-books-text80 {
+  top: 8px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-frame209 {
+  top: 102px;
+  left: 507px;
+  width: 244px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 0 12px 12px 0;
+  background-color: rgba(226, 226, 226, 1);
+}
+ 
+.admin-reading-books-text81 {
+  top: 8px;
+  left: 41px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}
+ 
+.admin-reading-books-frame211 {
+  top: 102px;
+  left: 769px;
+  width: 244px;
+  height: 38px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 0 12px 12px 0;
+  background-color: rgba(226, 226, 226, 1);
+}
+ 
+.admin-reading-books-text82 {
+  top: 8px;
+  left: 64px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: SemiBold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 600;
+  line-height: 139.9999976158142%;
+  font-stretch: normal;
+  text-decoration: none;
+}

@@ -1,0 +1,15 @@
+.admin-login-form-input {
+  width: 100%;
+  padding: 10px;
+  font-size: 0.9rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  outline: none;
+  box-sizing: border-box;
+  transition: all 0.2s ease;
+}
+
+.admin-login-form-input:focus {
+  border-color: #00cc66;
+  box-shadow: 0 0 3px rgba(0, 204, 102, 0.4);
+}
