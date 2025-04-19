@@ -1,6 +1,6 @@
 ---
 
-# Admin and User Journey Project
+## Admin and User Journey Project
 
 This project consists of two parts: **Admin Journey** and **User Journey**.
 
